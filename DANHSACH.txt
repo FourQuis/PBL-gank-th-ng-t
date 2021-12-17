@@ -1,0 +1,15 @@
+                                DANH SÁCH NHÂN VIÊN QUÁN CÀ PHÊ 
+  Mã nhân viên | Tên nhân viên | Giới tính | Ngày sinh |   Địa chỉ   | Số điện thoại |     Email               		|   Công việc 		|   Lương   | Ngày đến làm việc |
+===================================================================================================================================================
+124             LE TU QUY           Nam       12-12-2002   QUANG TRI    0816688246     levantuquy@gmail.com     		   PhuPhaChe			3960000			20-10-2021
+365             TRUONG THE VINH     Nam       10-12-2002   NGHE AN      0916801300     manhdung@gmail.com       		   PhuPhaChe			4320000			9-9-2021
+321             LE THUC NHI         Nữ      10-11-2002   QUANG NAM    0355309791     huonggahau@gmail.com     		   PhuPhaChe			4320000			9-7-1999
+895             TRUONG THUY NGA     Nữ      07-08-2001   DA NANG      0935547160     quephan@longphanvn.com   		   ThanhToan			3630000			16-12-1999
+439             MAI VAN NGA         Nữ      08-03-2001   QUANG TRI    0901790301     acc@delta.com.vn         		   ThanhToan			3960000			17-8-1998
+921             LE TU THANH         Nam       09-02-1999   NAM DINH     0962240446     lcacakong@yahoo.com      		   PhucVu			3300000			17-9-1999
+394             LUU MINH ANH        Nữ      16-01-1997   DAK LAK      0988585568     lienhe@timviecnhanh.com  		   PhucVu			3600000			17-9-1999
+567             LE VAN THANH        Nam       09-06-2002   QUANG BINH   0776957352     smavn@smavn.com          			  BaoVeCong			2250000			9-8-2000
+894             LE TIEN DAT         Nam       24-05-2002   HUE          0917029775     vanduongve@gmail.com     			  BaoVeCong			2025000			13-8-2000
+130             TRAN NHAT BA        Nữ      06-11-2002   AN GIANG     0932547450     pttrans@pttrans.com.vn   			  BaoVeXe			1680000			30-12-2000
+238             LY CONG TRU         Nam       07-04-2002   DONG THAP    0967496219     ina@goldenmark.org       			  BaoVeXe			1470000			16-10-2001
+

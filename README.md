@@ -1,0 +1,14 @@
+
+- thêm nhân viên
+- xoá nhân viên
+- sắp xếp nhân viên
+- cập nhật nhân viên
+- tìm nhân viên
+-p : pha chees
+-Q
+-5
+-M123 LE TU QUY NAM 01-10-2002 DIACHI SDT HSL LUONG 
+-C123 LE TU QUY NAM 01-10-2002 DIACHI SDT HSL LUONG
+-D123 LE TU QUY NAM 01-10-2002 DIACHI SDT HSL LUONG
+-E123 LE TU QUY NAM 01-10-2002 DIACHI SDT HSL LUONG
+-M123 LE TU QUY NAM 01-10-2002 DIACHI SDT HSL LUONG
